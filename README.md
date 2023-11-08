@@ -1,6 +1,8 @@
 # SAP Business Technology Platform Solution Diagrams &amp; Icons - Custom draw.io library
 A huge thanks to [Mauricio Lauffer](https://github.com/mauriciolauffer) for his great contribution, making this library relevant again. 
 
+
+
 ## UPDATE: December 2022 - Auto create SAP BTP Service Icons Latest
 ### Contributed by [@mauriciolauffer](https://github.com/mauriciolauffer)
 
